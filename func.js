@@ -1,1 +1,1 @@
-funzione js che non funziona
+funzione js che ora funziona  xfettamente
