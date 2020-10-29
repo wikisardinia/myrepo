@@ -1,3 +1,3 @@
 # My README.md file
 
-Creato file readme.md
+Repo created for learning push pull
